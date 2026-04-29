@@ -1,0 +1,1 @@
+.gitignore je obična tekstualna datoteka u korijenu Git repozitorija koja govori Gitu koje datoteke ili mape treba zanemariti i ne pratiti
